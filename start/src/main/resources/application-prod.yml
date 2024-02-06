@@ -1,0 +1,6 @@
+scheduler:
+  list:
+    - name: chatbotTask
+      platform: zsxq
+      answer: openai
+      cron: '0 0/1 * * * ?'
